@@ -12,3 +12,12 @@ ZCZC W00 10 L01 Set up SEB & tried Dummy Quiz
 ZCZC W00 100 L02 CLASSROOM day
 ZCZC W00 20 L08 Discussing & studying OS materials for quiz with friends on LINE
 ZCZC W00 10 L05 OS Quiz 01
+ZCZC W01 100 L02 CLASSROOM day
+ZCZC W01 60 L11 Beginning Assignment #01
+ZCZC W01 30 L08 Consulting with friend (kenkom) about OS
+ZCZC W01 100 L02 CLASSROOM day
+ZCZC W01 30 L05 Studying for quiz
+ZCZC W01 30 L32 Watching youtube videos about Bash & AWK
+ZCZC W01 10 L05 OS Quiz Week01
+ZCZC W01 120 L11 Continuing Assignment #01
+ZCZC W01 5 L41 Writing Week01 Log
