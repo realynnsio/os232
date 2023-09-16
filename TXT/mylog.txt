@@ -21,3 +21,12 @@ ZCZC W01 30 L32 Watching youtube videos about Bash & AWK
 ZCZC W01 10 L05 OS Quiz Week01
 ZCZC W01 120 L11 Continuing Assignment #01
 ZCZC W01 5 L41 Writing Week01 Log
+ZCZC W02 100 L98 Gemastik (Game Development Division Finals)
+ZCZC W02 10 L07 Updating Demos Week 02 and trying out the demos
+ZCZC W02 5 L01 Submitting the form on scele
+ZCZC W02 30 L23 Learning SED from online guides and tutorials
+ZCZC W02 10 L21 Trying SED with the sed.js online GNU sed live editor
+ZCZC W02 50 L12 Working on Assignment #02
+ZCZC W02 15 L08 Asking friends about things I didn't understand in Assignment #02
+ZCZC W02 75 L12 Finishing Assignment #02, including bash scripting WEEK02.sh
+ZCZC W02 5 L41 Writing Week02 log
