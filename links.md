@@ -20,3 +20,7 @@ Removes the hassle of having to open and create files to check how sed affects m
 
 ### 5. [Bash Scripting Tutorial for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 Easy-to-understand guide on how to make a bash script for the first time. Complete with GIFs for visualization.
+
+### 6. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://youtu.be/_h30HBYxtws)
+A concise explanation of a few popular file systems. Only about 11 minutes long & provides a real example of why knowing the file system you're using is important.
+Good to watch after reading chapters 13, 14, and 15 of Operating System Concepts (10th Ed).

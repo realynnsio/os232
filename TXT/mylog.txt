@@ -30,3 +30,13 @@ ZCZC W02 50 L12 Working on Assignment #02
 ZCZC W02 15 L08 Asking friends about things I didn't understand in Assignment #02
 ZCZC W02 75 L12 Finishing Assignment #02, including bash scripting WEEK02.sh
 ZCZC W02 5 L41 Writing Week02 log
+ZCZC W03 100 L02 CLASSROOM day
+ZCZC W03 120 L06 Reading Ch. 13, 14, and 15 of OSC (10th ed)
+ZCZC W03 30 L08 Discussing with friends about quiz materials
+ZCZC W03 25 L32 Watching videos on File Systems
+ZCZC W03 12 L05 OS Quiz Week03
+ZCZC W03 100 L13 Beginning Assignment #03
+ZCZC W03 5 L01 Answering POP QUIZ at SCELE
+ZCZC W03 30 L08 Discussing with friends about assignment #03
+ZCZC W03 80 L13 Finishing Assignment #03, including WEEK03.tar
+ZCZC W03 5 L41 Writing Week03 log
