@@ -40,3 +40,9 @@ ZCZC W03 5 L01 Answering POP QUIZ at SCELE
 ZCZC W03 30 L08 Discussing with friends about assignment #03
 ZCZC W03 80 L13 Finishing Assignment #03, including WEEK03.tar
 ZCZC W03 5 L41 Writing Week03 log
+ZCZC W04 100 L02 CLASSROOM day
+ZCZC W04 20 L32 Watching videos on virtual to physical address translation
+ZCZC W04 20 L14 Beginning Assignment #04
+ZCZC W04 10 L08 Asking a friend how to properly copy files to os1
+ZCZC W04 10 L14 Finishing Assignment #04
+ZCZC W04 5 L41 Writing Week04 log

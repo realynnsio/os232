@@ -24,3 +24,7 @@ Easy-to-understand guide on how to make a bash script for the first time. Comple
 ### 6. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://youtu.be/_h30HBYxtws)
 A concise explanation of a few popular file systems. Only about 11 minutes long & provides a real example of why knowing the file system you're using is important.
 Good to watch after reading chapters 13, 14, and 15 of Operating System Concepts (10th Ed).
+
+### 7. [Virtual Address Translation Example](https://youtu.be/DkxqhOZ1OYo)
+Walkthrough of a problem example in virtual address to physical address translation.
+The video is only ~8 minutes, explains the steps very thoroughly, and is easy to understand.
