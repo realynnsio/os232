@@ -46,3 +46,12 @@ ZCZC W04 20 L14 Beginning Assignment #04
 ZCZC W04 10 L08 Asking a friend how to properly copy files to os1
 ZCZC W04 10 L14 Finishing Assignment #04
 ZCZC W04 5 L41 Writing Week04 log
+ZCZC W05 40 L05 Studying for OS Quiz Week04
+ZCZC W05 15 L05 OS Quiz Week04
+ZCZC W05 100 L02 CLASSROOM day
+ZCZC W05 60 L15 Doing Assignment #05
+ZCZC W05 5 L01 Answering POP QUIZ at SCELE
+ZCZC W05 12 L08 Asking friends about how to copy from os1
+ZCZC W05 60 L15 Finishing Assignment #05
+ZCZC W05 15 L32 Watching YouTube videos on virtual memory
+ZCZC W05 5 L41 Writing Week05 log

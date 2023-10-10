@@ -28,3 +28,7 @@ Good to watch after reading chapters 13, 14, and 15 of Operating System Concepts
 ### 7. [Virtual Address Translation Example](https://youtu.be/DkxqhOZ1OYo)
 Walkthrough of a problem example in virtual address to physical address translation.
 The video is only ~8 minutes, explains the steps very thoroughly, and is easy to understand.
+
+### 8. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s)
+Short video explanation (with animation) about the differences between Segmented Memory and Paged Memory.
+Helpful in visualizing memory fragmentation and understanding what swapping out processes means.
