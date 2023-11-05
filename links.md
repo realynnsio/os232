@@ -32,3 +32,7 @@ The video is only ~8 minutes, explains the steps very thoroughly, and is easy to
 ### 8. [Segmented, Paged and Virtual Memory](https://youtu.be/p9yZNLeOj4s)
 Short video explanation (with animation) about the differences between Segmented Memory and Paged Memory.
 Helpful in visualizing memory fragmentation and understanding what swapping out processes means.
+
+### 9. [Unix Processes in C](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&pp=iAQB)
+A comprehensible playlist about the fork() function in C and other functions related to it.
+The first few videos are very relevant to the current week's class materials on fork.

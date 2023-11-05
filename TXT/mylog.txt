@@ -55,3 +55,12 @@ ZCZC W05 12 L08 Asking friends about how to copy from os1
 ZCZC W05 60 L15 Finishing Assignment #05
 ZCZC W05 15 L32 Watching YouTube videos on virtual memory
 ZCZC W05 5 L41 Writing Week05 log
+ZCZC W06 100 L02 CLASSROOM day
+ZCZC W06 30 L32 Watching YouTube videos on fork
+ZCZC W06 100 L02 CLASSROOM day
+ZCZC W06 15 L05 OS Quiz Week06
+ZCZC W06 90 L16 Doing Assignment #06
+ZCZC W06 10 L07 Inspecting Demos
+ZCZC W06 10 L01 Answering POP QUIZ for Week06 at SCELE
+ZCZC W06 10 L16 Finishing Assignment #06
+ZCZC W06 7 L41 Writing Week06 log
