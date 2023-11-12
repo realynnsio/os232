@@ -64,3 +64,10 @@ ZCZC W06 10 L07 Inspecting Demos
 ZCZC W06 10 L01 Answering POP QUIZ for Week06 at SCELE
 ZCZC W06 10 L16 Finishing Assignment #06
 ZCZC W06 7 L41 Writing Week06 log
+ZCZC W07 30 L32 Watching YouTube videos on process synchronization
+ZCZC W07 7 L05 OS Quiz Week07
+ZCZC W07 12 L08 Asking friends about WEEK07 Pop Quiz
+ZCZC W07 100 L17 Doing Assignment #07
+ZCZC W07 8 L01 Answering POP QUIZ for Week07 at SCELE
+ZCZC W07 5 L17 Finishing Assignment #07
+ZCZC W07 7 L41 Writing Week07 log

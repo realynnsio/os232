@@ -36,3 +36,11 @@ Helpful in visualizing memory fragmentation and understanding what swapping out 
 ### 9. [Unix Processes in C](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&pp=iAQB)
 A comprehensible playlist about the fork() function in C and other functions related to it.
 The first few videos are very relevant to the current week's class materials on fork.
+
+### 10. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Short helpful read as an introduction of Process Synchronization.
+Also works as a refresher if you've forgotten what you've learnt.
+
+### 11. [Process Synchronization | Youtube Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&si=T-KPtv3AqXdD7fxo)
+An entire playlist going over the concept of Process Synchronization.
+The videos breaks down each part of the concept pretty thoroughly and are all very informative.
