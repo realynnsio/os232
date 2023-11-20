@@ -44,3 +44,6 @@ Also works as a refresher if you've forgotten what you've learnt.
 ### 11. [Process Synchronization | Youtube Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&si=T-KPtv3AqXdD7fxo)
 An entire playlist going over the concept of Process Synchronization.
 The videos breaks down each part of the concept pretty thoroughly and are all very informative.
+
+### 12. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=2oKw6_Zbf7fLXJ3s)
+Very helpful guide in setting up Linux from Scratch. Fills in the blanks left by the written guide.

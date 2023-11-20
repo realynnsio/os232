@@ -71,3 +71,7 @@ ZCZC W07 100 L17 Doing Assignment #07
 ZCZC W07 8 L01 Answering POP QUIZ for Week07 at SCELE
 ZCZC W07 5 L17 Finishing Assignment #07
 ZCZC W07 7 L41 Writing Week07 log
+ZCZC W08 7 L05 OS Quiz Week08
+ZCZC W08 60 L32 Watching Kernotex's LFS Guide
+ZCZC W08 120 L18 Doing Assignment #08
+ZCZC W08 7 L41 Writing Week08 log
